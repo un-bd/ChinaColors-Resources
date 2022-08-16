@@ -21,3 +21,48 @@ ___
 
 ### 联系我们
 使用本软件的任何疑问或者建议，均可发送邮件致 **unbd.com@gmail.com**
+
+<br/>
+<br/>
+
+# Privacy policy
+
+Chinese traditional color privacy policy
+
+___
+
+
+
+
+### Software information
+
+Chinese traditional color is an application for viewing Chinese traditional colors. It supports adding desktop widgets and other functions.
+
+
+
+
+### Privacy statement
+
+This software will not collect your privacy information, but only collect content unrelated to personal information:
+
+- Error log: when the software has a bug problem due to unknown reasons, the system will automatically generate relevant problem code information, and use Microsoft AppCenter（ https://www.appcenter.ms ）The platform reports through the network to solve problems such as bugs.
+
+- Mobile phone information: when the error log is reported, **Android version number**, **mobile phone brand**, and **model** will also be collected to more accurately reproduce and solve the problems of this software. The above information cannot be traced to specific users or specific mobile phones. The collected information has been confused.
+
+
+
+
+### Authority
+
+- Network permission: report the error stack information of the mobile phone to solve the bug.
+
+
+
+
+<br/>
+
+
+
+### Contact us
+
+Any questions or suggestions about using this software can be sent to** unbd.com@gmail.com **
